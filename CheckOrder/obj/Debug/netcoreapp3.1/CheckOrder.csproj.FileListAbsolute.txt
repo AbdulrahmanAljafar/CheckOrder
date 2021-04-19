@@ -1,0 +1,13 @@
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\bin\Debug\netcoreapp3.1\CheckOrder.exe
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\bin\Debug\netcoreapp3.1\CheckOrder.deps.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\bin\Debug\netcoreapp3.1\CheckOrder.runtimeconfig.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\bin\Debug\netcoreapp3.1\CheckOrder.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\bin\Debug\netcoreapp3.1\CheckOrder.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\bin\Debug\netcoreapp3.1\CheckOrder.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\obj\Debug\netcoreapp3.1\CheckOrder.csprojAssemblyReference.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\obj\Debug\netcoreapp3.1\CheckOrder.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\obj\Debug\netcoreapp3.1\CheckOrder.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\obj\Debug\netcoreapp3.1\CheckOrder.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\obj\Debug\netcoreapp3.1\CheckOrder.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\obj\Debug\netcoreapp3.1\CheckOrder.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\CheckOrder\CheckOrder\obj\Debug\netcoreapp3.1\CheckOrder.genruntimeconfig.cache
